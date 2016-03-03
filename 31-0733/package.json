@@ -1,0 +1,21 @@
+{
+  "name": "ayhaga",
+  "version": "1.0.0",
+  "description": "return",
+  "main": "app.js2",
+  "scripts": {
+    "test": "hdbv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "WEVF"
+  },
+  "keywords": [
+    "Jhwbef"
+  ],
+  "author": "kJBEW",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
